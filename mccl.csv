@@ -349,7 +349,7 @@ Nome da Origem;Created By;Host ID;Host Name;Host MAC;Host Desc;Image Name;Image 
 4.CSV;fog;14;a45d362abd32;a4:5d:36:2a:bd:32;Created by FOG Reg on January 11, 2024, 11:20 am;DebRodrigo;Not Valid;17/01/2024;07:17:09;17/01/2024;07:20:07;2 minutes 58 seconds;Deploy;00:02:05
 4.CSV;fog;16;a45d362a9df5;a4:5d:36:2a:9d:f5;Created by FOG Reg on January 11, 2024, 11:23 am;DebRodrigo;Not Valid;17/01/2024;07:17:16;17/01/2024;07:20:05;2 minutes 49 seconds;Deploy;00:02:03
 4.CSV;fog;18;a45d362aadca;a4:5d:36:2a:ad:ca;Created by FOG Reg on January 12, 2024, 11:46 am;DebRodrigo;Not Valid;17/01/2024;07:17:13;17/01/2024;07:20:06;2 minutes 53 seconds;Deploy;00:02:04
-5.CSV;fog;2;a45d362abd33;a4:5d:36:2a:bd:33;Created by FOG Reg on January 11, 2024, 11:18 am;DebRodrigo;Not Valid;17/01/2024;07:22:25;17/01/2024;07:25:17;2 minutes 52 seconds;Deploy;
+5.CSV;fog;2;a45d362abd33;a4:5d:36:2a:bd:33;Created by FOG Reg on January 11, 2024, 11:18 am;DebRodrigo;Not Valid;17/01/2024;07:22:25;17/01/2024;07:25:17;2 minutes 52 seconds;Deploy;00:02:03
 5.CSV;fog;3;a45d362a91f6;a4:5d:36:2a:91:f6;Created by FOG Reg on January 11, 2024, 11:18 am;DebRodrigo;Not Valid;17/01/2024;07:22:28;17/01/2024;07:25:19;2 minutes 51 seconds;Deploy;00:02:05
 5.CSV;fog;4;a45d362aad8f;a4:5d:36:2a:ad:8f;Created by FOG Reg on January 11, 2024, 11:18 am;DebRodrigo;Not Valid;17/01/2024;07:22:24;17/01/2024;07:25:18;2 minutes 54 seconds;Deploy;00:02:07
 5.CSV;fog;5;a45d362a9db8;a4:5d:36:2a:9d:b8;Created by FOG Reg on January 11, 2024, 11:19 am;DebRodrigo;Not Valid;17/01/2024;07:22:22;17/01/2024;07:25:18;2 minutes 56 seconds;Deploy;00:02:06
